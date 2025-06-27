@@ -8,7 +8,7 @@ This project involves cleaning, analyzing, and visualizing a retail store's tran
 
 - `data.xlsx`: Raw dataset (as received)
 - `cleaned_data.xlsx`: Final, cleaned version after handling missing values and formatting
-- `Sales_EDA.py`: Complete Python script for data cleaning, exploration, and visualization
+- `STORE_EDA.py`: Complete Python script for data cleaning, exploration, and visualization
 - `.png` files: Visual charts saved as part of the analysis (optional for GitHub preview)
 
 ---
